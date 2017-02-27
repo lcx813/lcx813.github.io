@@ -1,4 +1,4 @@
-# Cheng-Xi Li
+# Chengxi Li
 ### Data Scientist@IBM Watson Health
 
 
